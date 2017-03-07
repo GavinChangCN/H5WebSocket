@@ -1,4 +1,4 @@
-package com.gavin;
+package com.gavin.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
